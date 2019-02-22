@@ -1,2 +1,3 @@
-# go study
-go study是go学习笔记和项目集合。
+#study
+区块链学习笔记
+go学习和项目分享。
