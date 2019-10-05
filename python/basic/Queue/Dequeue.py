@@ -1,5 +1,5 @@
 #coding:utf-8 
-
+#判断回文
 class Dequeue(object):
 	"""docstring for Dequeue"""
 	def __init__(self):
@@ -41,3 +41,5 @@ def check(string):
 
 print(check("abcba"))
 print(check("abcbad"))
+
+
