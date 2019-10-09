@@ -9,8 +9,8 @@ basic/  <br/>
         [递归](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/recursion)   <br/>
         [查找](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Search)   <br/>
         [排序](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Sort)   <br/>
-        [堆](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Heap)   <br/>  
-        [树与二叉树](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Tree)  <br/> 
+        [堆](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Heap)   <br/>
+        [树与二叉树](https://github.com/xingyushu/datastructure_learning/tree/master/python/basic/Tree)  
         
         
 
